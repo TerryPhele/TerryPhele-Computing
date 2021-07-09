@@ -1,0 +1,10 @@
+#include<iostream>
+Using namespace std;
+int main()
+{
+  char name[]="Terry";
+  char *pointerArr=name;
+   Cout<<pointer<<endl;
+
+  Return 0;
+}
