@@ -4,7 +4,7 @@ int main()
 {
   char name[]="Terry";
   char *pointerArr=name;
-   Cout<<pointer<<endl;
+   Cout<<pointerArr<<endl;
 
   Return 0;
 }
